@@ -34,7 +34,7 @@ The snippet below extends `example_script.py` to compute all three methods at a 
 You are free to use, modify and distribute the code as long as **authorship is properly acknowledged**. Please reference this repository in derivative works.
 
 ## Citing
-Tol, Hİ. Development of a U-Independent Effectiveness–Thermal Length Modelling for Heat Exchanger Performance Prediction. International Journal of Energy Horizon. Submitted. 
+Tol, Hİ. Development of a U-Independent Effectiveness–Thermal Length Modelling for Heat Exchanger Performance Prediction. International Journal of Energy Horizon. [Link](https://dergipark.org.tr/tr/pub/ijeh/issue/95821/1811174)
 
 ## Acknowledgements
 Above all, I give thanks to **Allah, The Creator (C.C.)**, and honor His name **Al-‘Alīm (The All-Knowing)**.
